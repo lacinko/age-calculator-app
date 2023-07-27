@@ -1,5 +1,3 @@
-import { InputAction } from "../types";
-
 type Props = {
   children: React.ReactNode;
   onClick: (e: React.MouseEvent<HTMLButtonElement>) => void;
